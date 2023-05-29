@@ -1,0 +1,6 @@
+Untuk menjalankannya, masuk ke folder backend menggunakan terminal kemudian masukkan perintah ' nodemon index ' pada terminal.
+Nodemon merupakan library yang fungsinya sama sepeti extension live server ' untuk memonitor perubahan yang dilakukan pada project '.
+
+Setelah langkah diatas dilakukan, maka buka new terminal dan masuk ke folder frontend menggunakan terminal. Kemudian masukkan perintah ' npm start ' untuk merunning project.
+
+Referensi: https://youtu.be/jPjPGAQOMac
